@@ -4,6 +4,8 @@
 >
 > -- Balian, Kingdom of Heaven
 
+[![Docker Repository on Quay](https://quay.io/repository/klenkes74/java-runner-with-maven/status "Docker Repository on Quay")](https://quay.io/repository/klenkes74/java-runner-with-maven)
+
 ## Abstract
 This is basically the [OpenShift Actions Runner Installer](https://github.com/redhat-actions/openshift-actions-runner-installer) with added maven.
 
